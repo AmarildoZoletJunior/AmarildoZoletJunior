@@ -6,7 +6,7 @@
 <h3 style="background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);border-radius:5px;text-align:center;color:black;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');font-family: 'Press Start 2P', cursive;"> Meu portfólio hospedado no domínio do github
 </h3><br/>
 
-[![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)(https://amarildozoletjunior.github.io/)]
+[![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://amarildozoletjunior.github.io/)
 <br/>
 <br/>
 
@@ -58,10 +58,10 @@ Linguagens/Framework/Bibliotecas que utilizo ou estou estudando.
 📱 +55 (47) 99667-1858.
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]<h4>amarildozj@gmail.com</h4>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<h4>amarildozj@gmail.com</h4>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/amarildozj/)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarildozj/)
 
 <br/>
 <br/>
