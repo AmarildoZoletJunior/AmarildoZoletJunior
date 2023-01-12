@@ -41,7 +41,11 @@ Linguagens/Framework/Bibliotecas/Banco de dados que utilizo ou estou estudando.
     <img align="center" alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 <div style="display:inline-block;"><br/>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
+  Tenho alguns projetos também em:
+  <div style="display:inline-block;"><br/>
+    <img align="center" alt="NodeJs" src=" https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 <div style="display:inline-block;"><br/>
     <h5 style="color:red"><b>Proximo framework para estudo:</b> </h5>
