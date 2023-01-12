@@ -43,10 +43,13 @@ Linguagens/Framework/Bibliotecas/Banco de dados que utilizo ou estou estudando.
 <div style="display:inline-block;"><br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
+  <br/><br/>
+  <br/><br/>
   Tenho alguns projetos também em:
   <div style="display:inline-block;"><br/>
-    <img align="center" alt="NodeJs" src=" https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+  <br/><br/>
 <div style="display:inline-block;"><br/>
     <h5 style="color:red"><b>Proximo framework para estudo:</b> </h5>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
