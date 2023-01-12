@@ -29,23 +29,23 @@
 <br/>
 
 <h3 style="background: linear-gradient(to right, #fc4a1a, #f7b733);border-radius:5px;text-align:center;color:black; white-space: nowrap;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');font-family: 'Press Start 2P', cursive;">
-Linguagens/Framework/Bibliotecas que utilizo ou estou estudando.
+Linguagens/Framework/Bibliotecas/Banco de dados que utilizo ou estou estudando.
 </h3>
-<div style="display:inline-block;"><br/>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <div style="display:inline-block;"><br/>
+    <img align="center" alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 <div style="display:inline-block;"><br/>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 <div style="display:inline-block;"><br/>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="SqlServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 <div style="display:inline-block;"><br/>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="Html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 <div style="display:inline-block;"><br/>
     <h5 style="color:red"><b>Proximo framework para estudo:</b> </h5>
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Html5" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 <br/><br/>
 
