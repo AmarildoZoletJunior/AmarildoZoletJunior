@@ -43,6 +43,10 @@ Linguagens/Framework/Bibliotecas/Banco de dados que utilizo ou estou estudando.
 <div style="display:inline-block;"><br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
+<div style="display:inline-block;"><br/>
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
   <br/><br/>
   <br/><br/>
   Tenho alguns projetos também em:
