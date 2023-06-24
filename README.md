@@ -3,13 +3,13 @@
 <div style ="text-align:center;  background: #200122; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #200122, #6f0000);
   background: linear-gradient(to right, #200122, #6f0000);border-radius:5px">
-<h3 style="background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);border-radius:5px;text-align:center;color:black;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');font-family: 'Press Start 2P', cursive;"> Meu portfólio hospedado no domínio do github
+<!-- <h3 style="background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);border-radius:5px;text-align:center;color:black;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');font-family: 'Press Start 2P', cursive;"> Meu portfólio hospedado no domínio do github
 </h3><br/>
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://amarildozoletjunior.github.io/)
 <br/>
 <br/>
-
+ -->
 <h3 style="background: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);;border-radius:5px;text-align:center;color:black;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');font-family: 'Press Start 2P', cursive;"> Total de movimentações que realizei no GitHub
 </h3>
 <br/>
