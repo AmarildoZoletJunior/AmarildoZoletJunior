@@ -2,7 +2,7 @@
 
 <div style ="text-align:center;  background: #200122; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #200122, #6f0000);
-  background: linear-gradient(to right, #200122, #6f0000);border-radius:5px">>
+  background: linear-gradient(to right, #200122, #6f0000);border-radius:5px">
 
 ![Amarildo GitHub stats](https://github-readme-stats.vercel.app/api?username=AmarildoZoletJunior&show_icons=true&theme=radical)
 <br/>
